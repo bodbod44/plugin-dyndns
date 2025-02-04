@@ -65,7 +65,7 @@
         "Erreur de mise à jour de duckdns : ' . $url": "Erreur de mise à jour de duckdns : ' . $url",
         "Erreur de mise à jour de strato.com : ": "Erreur de mise à jour de strato.com :",
         "Erreur de mise à jour de gandinet : ' . $url": "Erreur de mise à jour de gandinet : ' . $url",
-        "Erreur de mise à jour de infomaniak.com : ": "Erreur de mise à jour de infomaniak.com :"
+        "Erreur de mise à jour de infomaniak.com : ": "Erreur de mise à jour de infomaniak.com :",
         "Erreur de mise à jour de changeip.com : ": "Erreur de mise à jour de Changeip.com :"
     },
     "info.json": {
